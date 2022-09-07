@@ -10,19 +10,19 @@
     "openapi": "node openapi.config.js"
   },
   "dependencies": {
+    "@icon-park/react": "^1.4.2",
+    "antd-mobile": "^5.22.0",
+    "dayjs": "^1.11.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "antd-mobile": "^5.22.0",
-    "@icon-park/react": "^1.4.2",
-    "react-router-dom": "^6.3.0",
-    "dayjs": "^1.11.5"
+    "react-router-dom": "^6.3.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
+    "@umijs/openapi": "^1.7.0",
     "@vitejs/plugin-react": "^2.0.1",
     "typescript": "^4.6.4",
-    "vite": "^3.0.7",
-    "@umijs/openapi": "^1.7.0"
+    "vite": "^3.0.7"
   }
 }
